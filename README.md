@@ -42,32 +42,5 @@ HugoBurch.github.io/
 └── README.md
 ```
 
-## Como executar localmente
-
-1. Baixe ou clone o repositório.
-2. Abra a pasta do projeto no VS Code ou em outro editor.
-3. Abra o arquivo `index.html` no navegador.
-
-Não é necessário executar `npm install` ou configurar um servidor.
-
-## Como personalizar
-
-- **`index.html`:** altere textos, links, projetos e informações pessoais.
-- **`css/style.css`:** ajuste cores, tipografia e aparência do site.
-- **`js/main.js`:** modifique as interações em JavaScript.
-- **`assets/foto-profissional.png`:** substitua a foto, mantendo o nome ou atualizando o caminho no HTML.
-
-## Publicação com GitHub Pages
-
-1. Crie um repositório público chamado `HugoBurch.github.io` na conta `HugoBurch`.
-2. Envie os arquivos do site para a raiz da branch `main`.
-3. Em **Settings > Pages**, selecione **Deploy from a branch**, escolha `main` e `/ (root)` e salve.
-4. Aguarde a publicação e acesse [https://hugoburch.github.io](https://hugoburch.github.io).
-
-## Contato
-
-- **GitHub:** [github.com/HugoBurch](https://github.com/HugoBurch)
-
----
 
 Desenvolvido por **Hugo Burch**.
